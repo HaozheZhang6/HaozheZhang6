@@ -1,3 +1,4 @@
+<!-- Profile README -->
 ## Haozhe Zhang
 
 **Modeling Engineer at Tesla — LLMs & physics-based ML.**
