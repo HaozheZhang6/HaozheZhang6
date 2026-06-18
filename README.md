@@ -1,4 +1,3 @@
-<!-- Profile README -->
 ## Haozhe Zhang
 
 **Modeling Engineer at Tesla — LLMs & physics-based ML.**
@@ -12,8 +11,6 @@ Outside the day job I keep building — LLMs, agentic systems, RL training infra
 - **[Personal site & blog](https://haozhezhang6.github.io)** — research notes and bilingual (中文 / English) essays on physics, ML systems, and quant.
 - **[archscope](https://github.com/HaozheZhang6/archscope)** — publication-quality, hierarchical figures of model architectures.
 - **[CAD_opd](https://github.com/HaozheZhang6/CAD_opd)** — on-policy self-distillation (OPSD) for image → CadQuery on Qwen-VL.
-- **[HummingbirdRec](https://github.com/HaozheZhang6/HummingbirdRec)** — HSTU + RoPE generative recommender on KuaiRec.
-- **[mini-sglang](https://github.com/HaozheZhang6/mini-sglang)** — a compact SGLang reimplementation, built to understand LLM serving from the ground up.
 - **[Laurion AI](https://laurionai.com)** — voice agents for narrow domains.
 
 ### Research
