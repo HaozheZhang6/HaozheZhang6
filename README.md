@@ -2,7 +2,7 @@
 
 **Modeling Engineer at Tesla — MLLMs & physics-based ML.**
 
-Physics-based modeling meets machine learning on next-generation battery cells: theory, RL for automation, and data-driven optimization at scale-up. PhD in Mechanical Engineering (University of Virginia), BS (USTC). Outside work I build end-to-end — MLLMs, agentic systems, RL training infra, voice agents, and AI for hardware — mostly self-taught.
+Physics-based modeling meets machine learning on next-generation battery cells: theory, RL for automation, and data-driven optimization at scale-up. PhD in Mechanical Engineering (University of Virginia), BS (USTC). Outside work I build end-to-end — MLLMs, agentic systems, RL training infra, voice agents, and AI for hardware.
 
 ### Selected work
 
